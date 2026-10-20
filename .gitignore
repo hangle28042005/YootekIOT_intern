@@ -20,3 +20,11 @@ logs/
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Postman
+.postman/
+postman/
+
+# Root package files
+/package.json
+/package-lock.json
